@@ -10,7 +10,7 @@
   },
   "type": "module",
   "dependencies": {
-    "express": "^4.17.3",
+    "express": "^4.21.2",
     "pug": "^3.0.2",
     "simplicite": "^2.2.22"
   },
